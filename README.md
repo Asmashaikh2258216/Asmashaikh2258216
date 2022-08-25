@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Asma Shaikh
 
 <!--
 **Asmashaikh2258216/Asmashaikh2258216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love to design websites
 -->
+### About Me
+I love to design websites. I want to inspire aspirants to get a job as a web devloper.
+
+### What do i do for fun?
+I love designing
+I love devloping a websites, templates.
