@@ -1,16 +1,12 @@
-### Hi there 👋 I am Asma Shaikh
+I'm a currently studying Web And Mobile Hybrid Application Development from SMIT 🏛. I love designing a websites💻 and want to build them cool stuffs 🛠️.
 
-<!--
-**Asmashaikh2258216/Asmashaikh2258216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on HTML,CSS & Javascript Projects
 
-- 🔭 I’m currently working on Vs Code
-- 🌱 I’m currently learning Web development, HTML, CSS, JS, ES6
-- 👯 I’m looking to collaborate on Web Devlopment
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i love to design websites
--->
+🌱 I’m currently learning  HTML,CSS & Javascript
+
+👯 I’m looking to collaborate on Open Source Projects
+
+💬 Ask me about  HTML,CSS & Javascript
+
+📫 How to reach me as2258216@gmail.com
